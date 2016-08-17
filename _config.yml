@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Thøger Emil Rivera-Thorsen"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Th'ger Emil Rivera-Thorsen"
+description              : "Astrophysicist, Ph.D. candidate"
+url                      : "https:thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "thoeger"
 facebook:
   username               :
   app_id                 :
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Thøger Emil Rivera-Thorsen"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Stockholm, Sweden"
   email            :
   uri              :
   bitbucket        :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "thriveth"
+  google_plus      : "thoger.emil"
   keybase          :
-  instagram        :
-  lastfm           :
+  instagram        : 
+  lastfm           : 
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : http://physics.stackexchange.com/users/17556/thriveth
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "thoeger"
   vine             :
   weibo            :
   xing             :
@@ -134,6 +134,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - undo
 keep_files:
   - .git
   - .svn
