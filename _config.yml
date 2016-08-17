@@ -11,7 +11,7 @@ title                    : "Thøger Emil Rivera-Thorsen"
 title_separator          : "-"
 name                     : "Thøger Emil Rivera-Thorsen"
 description              : "Astrophysicist, Ph.D. candidate"
-url                      : "https:thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -90,7 +90,7 @@ author:
   facebook         :
   foursquare       :
   github           : "thriveth"
-  google_plus      : "thoger.emil"
+  google_plus      : # "thoger.emil"
   keybase          :
   instagram        : 
   lastfm           : 
@@ -172,7 +172,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm
 
 
 # Plugins
