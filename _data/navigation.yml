@@ -3,5 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
