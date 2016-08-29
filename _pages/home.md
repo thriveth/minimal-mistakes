@@ -10,9 +10,7 @@ excerpt: "Astrophysicist, Ph.D. candidate.
 My main interest is the ISM properties of strongly starforming galaxies."
 
 feature_row:
-  - image_path: MigVedNOT.jpg
-    alt: "Me at the NOT"
-    title: "About me"
+  - title: "About me"
     excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
 
 author_profile: true
