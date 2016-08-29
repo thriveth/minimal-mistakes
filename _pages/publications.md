@@ -4,11 +4,10 @@ permalink: /publications/
 ---
 
 Peer-reviewed publications 
-===========================
+---------------------------
 
 
-First author
-------------
+### First author ###
 
 + **Rivera-Thorsen, T. E.;** (4 coauthors): *Of needles and haystacks:
   spatially resolved gas kinematics in starburst galaxies haro 11 and eso 338
@@ -22,8 +21,7 @@ First author
   (2015). [ADS](http://adsabs.harvard.edu/abs/2015ApJ...805...14R)
 
 
-Co-author
----------
+### Co-author ###
 
 + **Duval, F.;** (10 coauthors); **Rivera-Thorsen, T.;** (7 coauthors): *The
   Lyman alpha Reference Sample VI: Lyman alpha escape from the edge-on disk
@@ -91,10 +89,9 @@ Co-author
 
 
 Talks, seminars etc. 
-=====================
+--------------------
 
-Invited seminars 
------------------
+### Invited seminars  ###
 
 +  **The impact of ISM kinematics and geometry on Lyman-α escape in the Lyman
    Alpha Reference Sample**, *Cosmology seminar*, University of Oslo, Norway;
@@ -110,8 +107,7 @@ Invited seminars
    Minnesota, USA; March 2015. [Event calendar](http://www.macalester.edu/academics/physics/about/events/)
 
 
-Contributed talks
------------------
+### Contributed talks ###
 
 + **Of needles and haystacks: High-detail characterization of warm ISM in
   nearby starbursts**. *How Galaxies Form Stars*, 20 min., Stockholm, Sweden,
