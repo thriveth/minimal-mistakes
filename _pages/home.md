@@ -19,7 +19,7 @@ author_profile: true
 
 # About me #
 
-![Me at the NOT](MigVedNOT_crop.jpg){: .align-left}
+![Me at the NOT]("/images/MigVedNOT_crop.jpg"){: .align-left}
 
 I am a final stage Ph.D. candidate at Stockholm University, dept. of
 Astronomy.
