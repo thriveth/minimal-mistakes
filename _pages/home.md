@@ -14,6 +14,8 @@ feature_row:
     alt: "Me at the NOT"
     title: "About me"
     excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
+
+author_profile: true
 ---
 
 {% include feature_row  type="center" %}
