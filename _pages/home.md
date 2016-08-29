@@ -16,4 +16,4 @@ feature_row:
     excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
 ---
 
-{% include feature_row %}
+{% include feature_row  type="center" %}
