@@ -5,11 +5,10 @@ permalink: /teaching/
 
 ## Computer tools for astronomers ##
 
-For the third year, this fall I am offering the 3⨉3 hours worksop: **Computer
-Tools For Astronomers**. The workshop contains an introduction to the
-Linux/Unix **command line**, to the $\LaTeX$ document preparation system and,
-not least, to **Python**-based tools for computations, data processing and
-visualization.
+In 2013, 2014 and 2015, I offered the 3⨉3 hours workshop: **Computer Tools For
+Astronomers**. The workshop contains an introduction to the Linux/Unix
+**command line**, to the $$\LaTeX$$ document preparation system and, not least,
+to **Python**-based tools for computations, data processing and visualization.
 
 You can download the [zip archive] with slides, templates and notebooks.
 
