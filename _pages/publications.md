@@ -82,7 +82,7 @@ Peer-reviewed publications
 
 + **Fynbo, J. P. U.;** (13 coauthors)**; Thorsen, T. J.;** (2 coauthors)**:**
   *Galaxy counterparts of metal-rich damped Lyα absorbers - II. A
-  solar-metallicity and dusty DLA at $$z_{\rm abs} = 2.58$$ *. Monthly Notices of
+  solar-metallicity and dusty DLA at $$z_{\rm abs} = 2.58$$*. Monthly Notices of
   the Royal Astronomical Society, Volume 413, Issue 4, pp. 2481-2488.
   [ADS](http://adsabs.harvard.edu/abs/2011MNRAS.413.2481F)
 
