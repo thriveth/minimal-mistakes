@@ -12,6 +12,8 @@ to **Python**-based tools for computations, data processing and visualization.
 
 You can download the [zip archive] with slides, templates and notebooks.
 
+$$ \int_{-\infty}^{infty} \frac{1}{x} d x $$
+
 ### HTML notebooks
 
 I have put up passive HTML renditions of the IPython notebooks presented during the workshop, for those who just want to view the notebooks without running IPython:
