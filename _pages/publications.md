@@ -118,8 +118,7 @@ Contributed talks
   August 2016. [Session program](http://agenda.albanova.se/sessionDisplay.py?sessionId=257&slotId=250&confId=5696#2016-08-26)
 
 + **Results of HST-COS Spectroscopy of the LARS galaxies**. *Lyman Alpha
-  Reference Sample collaboration meeting*, 40 minutes, Paris, France; October
-  2014. 
+  Reference Sample collaboration meeting*, 40 minutes, Paris, France; October 2014. 
 
 + **The Lyman alpha reference sample: Empirical inferences on the Lyman alpha
   output from high-resolution ultraviolet spectroscopy**, *European Week of
