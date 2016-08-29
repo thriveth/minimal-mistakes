@@ -16,4 +16,10 @@ feature_row:
 author_profile: true
 ---
 
-{% include feature_row  type="center" %}
+
+# About me #
+
+![Me at the NOT](/images/MigVedNOT_crop.jpg){: .align-left}
+
+I am a final stage Ph.D. candidate at Stockholm University, dept. of
+Astronomy.
