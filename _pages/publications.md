@@ -3,6 +3,8 @@ title: Publications
 permalink: /publications/
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 Peer-reviewed publications 
 ---------------------------
 
@@ -28,7 +30,7 @@ Peer-reviewed publications
   [ADS](http://adsabs.harvard.edu/abs/2015arXiv151200860D)
 
 + **Herenz, E. C.;** (18 coauthors); **Rivera-Thorsen, T. E.;** (2 coauthors):
-  *The Lyman alpha reference sample. VII. Spatially resolved H𝛼 kinematics.*
+  *The Lyman alpha reference sample. VII. Spatially resolved 𝛼 kinematics.*
   Astronomy & Astrophysics, Volume 587, id.A78, 27 pp..
   [ADS](http://adsabs.harvard.edu/abs/2015arXiv151200860D)
 
