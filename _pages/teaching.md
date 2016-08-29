@@ -12,7 +12,6 @@ to **Python**-based tools for computations, data processing and visualization.
 
 You can download the [zip archive] with slides, templates and notebooks.
 
-$$ \int_{-\infty}^{infty} \frac{1}{x} d x $$
 
 ### HTML notebooks
 
@@ -25,8 +24,6 @@ I have put up passive HTML renditions of the IPython notebooks presented during 
 + Some useful [Astropy] packages
 
 
-The materials are from last year (2014) and are likely to be altered before the
-workshop this year.
 
 [zip archive]: ./tools-package.zip
 [numpy arrays]: http://nbviewer.ipython.org/urls/ttt.astro.su.se/~trive/teaching/tools-package/NumpyArrays.ipynb
