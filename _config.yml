@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -96,7 +97,7 @@ analytics:
 author:
   name             : "Thøger Emil Rivera-Thorsen"
   avatar           : "MigVedNOT_crop.jpg"
-  bio              : "Astrophysicist and Ph.D. candidate specialized in starforming galaxies at low redshift."
+  bio              : "Astrophysicist, postdoctoral researcher"
   location         : "Stockholm, Sweden"
   email            :
   uri              :
@@ -198,6 +199,7 @@ timezone: Europe/Stockholm
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
