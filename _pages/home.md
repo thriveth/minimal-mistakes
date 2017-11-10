@@ -17,7 +17,7 @@ author_profile: true
 ---
 
 
-# About me #
+# About me
 
 ![Me at the NOT](/images/MigVedNOT_crop.jpg){: .align-left}
 
