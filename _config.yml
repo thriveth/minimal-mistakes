@@ -94,17 +94,10 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Thøger Emil Rivera-Thorsen"
   avatar           : "MigVedNOT_crop.jpg"
   bio              : "Astrophysicist and Ph.D. candidate specialized in starforming galaxies at low redshift."
   location         : "Stockholm, Sweden"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
->>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
   email            :
   uri              :
   bitbucket        :
