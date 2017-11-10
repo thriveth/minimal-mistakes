@@ -1,11 +1,12 @@
 ---
 permalink: / 
 layout: single #splash
+title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: images/LaPalma.jpg
-  caption: "Image caption"
+  caption: "Photo © T. E. Rivera-Thorsen"
 
 feature_row:
   - excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
