@@ -10,14 +10,22 @@ Peer-reviewed publications
 
 ### First author ###
 
+
++ **Rivera-Thorsen, T. E.;**, (8 coauthors): *The Sunburst Arc: Direct Lyman
+  $$\alpha$$ escape observed in the brightest known lensed galaxy*.
+  Submitted to Astronomy & Astrophysics. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171009482R)
+
+
 + **Rivera-Thorsen, T. E.;** (4 coauthors): *Of needles and haystacks:
   spatially resolved gas kinematics in starburst galaxies haro 11 and eso 338
   from nuv/optical long-slit spectroscopy.* Submitted to The Astrophysical
   Journal. [Submitted
   version](http://ttt.astro.su.se/~trive/papers/EsoHaroPaper.pdf)
 
-+ **Rivera-Thorsen, T. E.;**, (8 coauthors): *The Sunburst Arc: Direct Lyman
-  $$\alpha$$ escape observed in the brightest known lensed galaxy*
++ **Rivera-Thorsen, T. E.;** (3 coauthors): *Neutral ISM, Lyα, and
+  Lyman-continuum in the Nearby Starburst Haro11*. The Astrophysical Journal,
+  Volume 837, Issue 1, article id. 29, 9 pp.
+  [ADS](http://adsabs.harvard.edu/abs/2017ApJ...837...29R)
 
 + **Rivera-Thorsen, T. E.;** (17 coauthors): *The Lyman Alpha Reference
   Sample. V. The Impact of Neutral ISM Kinematics and Geometry on Lyα Escape.*
