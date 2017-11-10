@@ -3,7 +3,7 @@ permalink: /
 layout: single #splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.35"
+  overlay_filter: "0.25"
   overlay_image: images/LaPalma.jpg
 excerpt: "Astrophysicist, postdoctoral researcher"
 
