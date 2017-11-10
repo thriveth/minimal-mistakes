@@ -6,7 +6,7 @@ permalink: /teaching/
 
 In 2013, 2014 and 2015, I offered the 3⨉3 hours workshop: **Computer Tools For
 Astronomers**, on Stockholm University. The workshop contains an introduction
-to the Linux/Unix **command line**, to the $$\LaTeX$$ document preparation
+to the Linux/Unix **command line**, to the $$\mathrm{\LaTeX}$$ document preparation
 system and, not least, to **Python**-based tools for computations, data
 processing and visualization.
 
