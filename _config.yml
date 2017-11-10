@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en"
 title                    : "Thøger Emil Rivera-Thorsen"
@@ -13,12 +15,17 @@ name                     : "Thøger Emil Rivera-Thorsen"
 description              : "Astrophysicist, Ph.D. candidate"
 url                      : "https://thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
+<<<<<<< HEAD
 repository               : thriveth/thriveth.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+=======
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -29,21 +36,24 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : # "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : # "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -63,6 +73,7 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+naver-site-verification  :
 
 # Social Sharing
 twitter:
@@ -88,10 +99,17 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Thøger Emil Rivera-Thorsen"
   avatar           : "MigVedNOT_crop.jpg"
   bio              : "Astrophysicist and Ph.D. candidate specialized in starforming galaxies at low redshift."
   location         : "Stockholm, Sweden"
+=======
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
   email            :
   uri              :
   bitbucket        :
@@ -100,6 +118,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+<<<<<<< HEAD
   github           : "thriveth"
   google_plus      : # "thoger.emil"
   keybase          :
@@ -110,12 +129,25 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackexchange.com/users/17556/thriveth
   steam            :
+=======
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
   tumblr           :
   twitter          : "thoeger"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -125,6 +157,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -145,7 +178,12 @@ exclude:
   - Rakefile
   - README
   - tmp
+<<<<<<< HEAD
   - undo
+=======
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
 keep_files:
   - .git
   - .svn
@@ -183,11 +221,15 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+<<<<<<< HEAD
 timezone: Europe/Stockholm
+=======
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -238,3 +280,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+<<<<<<< HEAD
+=======
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+>>>>>>> 6ca184b4539d299d2ee9df0b88aac1a24eca38d5
