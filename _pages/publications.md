@@ -17,7 +17,7 @@ Peer-reviewed publications
   version](http://ttt.astro.su.se/~trive/papers/EsoHaroPaper.pdf)
 
 + **Rivera-Thorsen, T. E.;**, (8 coauthors): *The Sunburst Arc: Direct Lyman
-  $\alpha$ escape observed in the brightest known lensed galaxy*
+  $$\alpha$$ escape observed in the brightest known lensed galaxy*
 
 + **Rivera-Thorsen, T. E.;** (17 coauthors): *The Lyman Alpha Reference
   Sample. V. The Impact of Neutral ISM Kinematics and Geometry on Lyα Escape.*
