@@ -17,8 +17,8 @@ Peer-reviewed publications
 
 
 + **Rivera-Thorsen, T. E.;** (4 coauthors): *Of needles and haystacks:
-  spatially resolved gas kinematics in starburst galaxies haro 11 and eso 338
-  from nuv/optical long-slit spectroscopy.* Submitted to The Astrophysical
+  spatially resolved gas kinematics in starburst galaxies Haro 11 and ESO 338
+  from NUV/optical long-slit spectroscopy.* Submitted to The Astrophysical
   Journal. [Submitted
   version](http://ttt.astro.su.se/~trive/papers/EsoHaroPaper.pdf)
 
@@ -34,6 +34,11 @@ Peer-reviewed publications
 
 
 ### Co-author ###
+
++ **Puschnig, J.;**, (2 coauthors), **Rivera-Thorsen, T. E.;**, (6 coauthors):
+  *The Lyman continuum escape and ISM properties in Tololo 1247-232 - new
+  insights from HST and VLA*. MNRAS, Volume 469, Issue 3, p.3252-3269.
+  [ADS](http://adsabs.harvard.edu/abs/2017MNRAS.469.3252P)
 
 + **Duval, F.;** (10 coauthors); **Rivera-Thorsen, T.;** (7 coauthors): *The
   Lyman alpha Reference Sample VI: Lyman alpha escape from the edge-on disk
