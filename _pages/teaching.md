@@ -1,5 +1,7 @@
 ---
 permalink: /teaching/ 
+layout: single
+author_profile: true
 ---
 
 ## Computer tools for astronomers 
