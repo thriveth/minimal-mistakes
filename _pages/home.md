@@ -5,13 +5,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: images/LaPalma.jpg
-excerpt: "Astrophysicist, postdoctoral researcher.
+excerpt: "Astrophysicist, postdoctoral researcher"
 
-My main interest is the ISM properties of strongly starforming galaxies and its evolution over cosmic time."
+#My main interest is the ISM properties of strongly starforming galaxies and its evolution over cosmic time."
 
 feature_row:
-  - title: "About me"
-    excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
+  - excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
 
 author_profile: true
 ---
