@@ -1,11 +1,13 @@
 ---
 permalink: / 
-layout: single #splash
+layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: images/LaPalma.jpg
 # excerpt: "Astrophysicist, postdoctoral researcher"
+intro:
+ - excerpt: "Astrophysicist, postdoctoral researcher INTRO"
 
 #My main interest is the ISM properties of strongly starforming galaxies and its evolution over cosmic time."
 
