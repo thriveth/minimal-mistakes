@@ -1,7 +1,7 @@
 ---
 permalink: / 
 layout: single #splash
-title: ""
+title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
