@@ -1,12 +1,12 @@
 ---
 permalink: / 
 layout: single
-title: "About me"
+title: ""
 header:
-  # overlay_color: "#000"
-  # overlay_filter: "0.25"
-  #overlay_image: images/LaPalma.jpg
-  image: /images/LaPalma-cropped.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: images/LaPalma-cropped.jpg
+  #image: /images/LaPalma-cropped.jpg
   #height: 1200
   caption: "Photo © T. E. Rivera-Thorsen"
   #excerpt: "&nbsp"
