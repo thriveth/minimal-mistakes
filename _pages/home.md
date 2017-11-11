@@ -5,8 +5,9 @@ title: "\t"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: images/LaPalma.jpg
-  height: 600
+  #overlay_image: images/LaPalma.jpg
+  header_image: images/LaPalma.jpg
+  #height: 1200
   caption: "Photo © T. E. Rivera-Thorsen"
   #excerpt: "&nbsp"
 
