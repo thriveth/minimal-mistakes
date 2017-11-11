@@ -15,14 +15,9 @@ header:
 
 ![Me at the NOT](/images/MigVedNOT_crop.jpg "Me at the NOT"){: .align-left}
 
-{% include figure image_path="/images/MigVedNOT_crop.jpg" alt="this is a
-placeholder image" caption="Me at the Nordic Optical Telescope, La Palma,
-Canary Islands" style="width:500px;height:600px;" align="left" %}
-
 I am an astrophysicist and postdoctoral researcher working at the [Institute of Theoretical
 Astrophysics (ITA)](http://www.astro.uio.no)at the [University
 of Oslo (UiO)](http://www.uio.no), in the field of extragalactic astronomy.
-
 
 I got my Master's degree from the [DARK Cosmology
 Centre](http://dark.nbi.ku.dk), supervised by [Johan
