@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 toc: true
 toc_label: Overview
-header:
-  og_image: /images/MigVedNOT_crop.jpg 
 ---
 
 ## Computer tools for astronomers 
