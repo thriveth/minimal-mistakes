@@ -1,9 +1,13 @@
 --- 
 title: "Research" 
 layout: single 
-author_profile: true 
 permalink: /research/ 
+author_profile: true 
+header:  
+  overlay_color: "#6a3d9a"
 ---
 
-***Description underway***
+# Research
+
+**Description underway**
 
