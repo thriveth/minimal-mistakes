@@ -9,7 +9,7 @@ header:
   #image: /images/LaPalma-cropped.jpg
   #height: 1200
   caption: "Photo © T. E. Rivera-Thorsen"
-  #excerpt: "&nbsp"
+  excerpt: "&nbsp"
 
 feature_row:
   - excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
