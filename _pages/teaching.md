@@ -3,6 +3,7 @@ permalink: /teaching/
 layout: single
 author_profile: true
 toc: true
+toc_label: Overview
 ---
 
 ## Computer tools for astronomers 
