@@ -7,7 +7,7 @@ toc: true
 toc_label: Overview
 excerpt: 
 header:
-  overlay_color: "#333"
+  overlay_color: "#ff7f00"
 ---
 
 ## Computer tools for astronomers 
