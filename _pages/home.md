@@ -5,14 +5,12 @@ title: "About me"
 header:
   image: /images/LaPalma-cropped.jpg
   caption: "The observatory at Roqué de los Muchachos, La Palma, Canary Islands"
-#author_profile: true
+author_profile: true
 ---
 
 
-# About me
-
-![Me at the NOT](/images/MigVedNOT_crop.jpg "Me at the NOT, La Palma"){:
-.align-left}
+<!--![Me at the NOT](/images/MigVedNOT_crop.jpg "Me at the NOT, La Palma"){:
+.align-left}-->
 
 I am an astrophysicist and postdoctoral researcher working at the [Institute of Theoretical
 Astrophysics (ITA)](http://www.astro.uio.no)at the [University
