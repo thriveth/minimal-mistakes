@@ -13,8 +13,13 @@ author_profile: true
 .align-left}-->
 
 I am an astrophysicist and postdoctoral researcher working at the [Institute of Theoretical
-Astrophysics (ITA)](http://www.astro.uio.no)at the [University
-of Oslo (UiO)](http://www.uio.no), in the field of extragalactic astronomy.
+Astrophysics (ITA)](http://www.astro.uio.no)at the [University of Oslo
+(UiO)](http://www.uio.no), in the field of extragalactic astronomy. I am mainly
+interested in the properties of the interstellar and circumgalactic gas in
+star-forming galaxies, and how they evolve over Cosmic time. To learn about
+them, I mainly use spectroscopic data from a number of world-leading facilities
+like the [Hubble Space Telescope](https://www.spacetelescope.org/), the ESO
+[Very Large Telescope](http://eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/x-shooter/), or the [Magellan Telescopes](http://obs.carnegiescience.edu/Magellan).
 
 I completed my Ph.D. from the department of astronomy at [Stockholm
 University](http://www.astro.su.se) and the [Oskar Klein Centre for
