@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: images/LaPalma.jpg
   caption: "Photo © T. E. Rivera-Thorsen"
+  excerpt: "\n \n"
 
 feature_row:
   - excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."

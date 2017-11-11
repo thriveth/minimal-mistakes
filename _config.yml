@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "Thøger Emil Rivera-Thorsen"
 title_separator          : "-"
 name                     : "Thøger Emil Rivera-Thorsen"
-description              : "Astrophysicist, Ph.D. candidate"
+description              : "Astrophysicist, Ph.D., Postdoctoral researcher"
 url                      : "https://thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : thriveth/thriveth.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
