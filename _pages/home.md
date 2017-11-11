@@ -1,7 +1,7 @@
 ---
 permalink: / 
 layout: single
-title: ""
+title: "\n \n"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
