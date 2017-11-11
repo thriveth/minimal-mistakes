@@ -1,6 +1,6 @@
 ---
 permalink: / 
-layout: splash
+layout: single
 title: "\n\n "
 header:
   overlay_color: "#000"
