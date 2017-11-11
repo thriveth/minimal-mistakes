@@ -5,6 +5,8 @@ title: Publications
 permalink: /publications/
 toc: true
 toc_label: Overview
+header:
+  overlay_color: "#1f78b4"
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
