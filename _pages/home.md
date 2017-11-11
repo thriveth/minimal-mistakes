@@ -1,10 +1,10 @@
 ---
 permalink: / 
 layout: single
-title: "\t"
+#title: "\t"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
+  # overlay_color: "#000"
+  # overlay_filter: "0.25"
   #overlay_image: images/LaPalma.jpg
   image: images/LaPalma.jpg
   #height: 1200
