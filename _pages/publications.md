@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Publications
+title: "Publications"
 permalink: /publications/
 toc: true
 toc_label: Overview
