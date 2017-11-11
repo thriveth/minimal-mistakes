@@ -17,7 +17,7 @@ header:
 
 {% include figure image_path="/images/MigVedNOT_crop.jpg" alt="this is a
 placeholder image" caption="Me at the Nordic Optical Telescope, La Palma,
-Canary Islands" align="left" %}
+Canary Islands" style="width:500px;height:600px;" align="left" %}
 
 I am an astrophysicist and postdoctoral researcher working at the [Institute of Theoretical
 Astrophysics (ITA)](http://www.astro.uio.no)at the [University
