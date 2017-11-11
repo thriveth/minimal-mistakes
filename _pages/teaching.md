@@ -5,8 +5,9 @@ layout: single
 author_profile: true
 toc: true
 toc_label: Overview
+excerpt: 
 header:
-  overlay_color: "#000"
+  overlay_color: "#333"
 ---
 
 ## Computer tools for astronomers 
