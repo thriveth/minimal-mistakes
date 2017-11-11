@@ -13,7 +13,7 @@ header:
 
 <!--# About me-->
 
-![Me at the NOT](/images/MigVedNOT_crop.jpg){: .align-left}
+![Me at the NOT](/images/MigVedNOT_crop.jpg "Me at the NOT"){: .align-left}
 
 {% include figure image_path="/images/MigVedNOT_crop.jpg" alt="this is a
 placeholder image" caption="Me at the Nordic Optical Telescope, La Palma,
