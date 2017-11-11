@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "default"  #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "Thøger Emil Rivera-Thorsen"
+title                    : "Thøger&nbsp;Emil Rivera-Thorsen"
 title_separator          : "-"
-name                     : "Thøger Emil Rivera-Thorsen"
+name                     : "Thøger&nbsp;Emil Rivera-Thorsen"
 description              : "Astrophysicist, Ph.D., Postdoctoral researcher"
 url                      : "https://thriveth.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
