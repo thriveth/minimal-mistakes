@@ -1,7 +1,7 @@
 ---
 permalink: / 
 layout: single
-#title: "\t"
+title: "About me"
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.25"
@@ -18,7 +18,7 @@ author_profile: true
 ---
 
 
-# About me
+<!--# About me-->
 
 <!--![Me at the NOT](/images/MigVedNOT_crop.jpg){: .align-left}-->
 
