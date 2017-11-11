@@ -2,14 +2,14 @@
 permalink: / 
 layout: single
 title: "\n \n"
+excerpt: "Halli hallo!"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: images/LaPalma-cropped.jpg
-  #image: /images/LaPalma-cropped.jpg
+  # overlay_color: "#000"
+  # overlay_filter: "0.25"
+  # overlay_image: images/LaPalma-cropped.jpg
+  image: /images/LaPalma-cropped.jpg
   #height: 1200
   caption: "Photo © T. E. Rivera-Thorsen"
-  excerpt: "Halli hallo!"
 
 feature_row:
   - excerpt: "I am a final stage Ph.D. candidate at Stockholm University, dept. of Astronomy."
